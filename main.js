@@ -1,7 +1,6 @@
+import { Reactables, Header } from 'gigatables-react'
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Reactables from './src/Reactables.jsx'
-import Header from './src/components/table/Header.js'
 import './main.css'
 
 // let localData = require('./local_data');
